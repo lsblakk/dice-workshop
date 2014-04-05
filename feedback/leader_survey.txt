@@ -1,0 +1,65 @@
+Thanks for running this workshop!
+
+Please take a minute to put together a text file that can be added to this repo
+which helps us gather information about your experience leading a group
+through this material.
+
+The text file should use the following naming convention:
+
+$date_$location_$leadername_feedback.txt (all small caps, if more than one leader, please pick one name)
+
+Use the following template for your feedback and please fill out as much as you can:
+
+
+### Workshop Details
+
+* Date:
+* Time:
+* Location:
+* Number of Attendees:
+* Leader Name(s):
+
+
+
+### What outreach was done to pull participants into this workshop?
+
+* Press
+* Blogs
+* Social Media
+* Other
+
+
+### What were your assumptions about this workshop's outcomes?
+
+
+
+
+### What surprised you?
+
+
+
+### What feedback did you get from attendees?
+
+* Positive
+* Negative (or constructive criticism)
+* Neutral
+
+
+### What worked for you as a leader with regards to the materials provided?
+
+
+### What's missing for you from the materials provided?
+
+* Anything you can add to this repo?
+* Requests for future 'to do' items
+
+### Would you run this workshop again?
+
+* If not, why not?
+
+
+### Anything else you'd like future workshop leaders to know?
+
+
+
+
