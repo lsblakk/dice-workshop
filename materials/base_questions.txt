@@ -54,7 +54,7 @@ You will be asked to step forward/backward according to criteria.  When I read s
 
     If you have a full time, paid job take one step forward
 
-    If you are responsible for providing care to elders take one step backward
+    If you are responsible for providing care to elders, or a child with chronic health issues take one step backward
 
     If you've ever had free time to contribute to open source projects apart from Mozilla, as a volunteer, take a step forward
 
