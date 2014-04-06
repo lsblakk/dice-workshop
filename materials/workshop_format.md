@@ -8,32 +8,28 @@ The workshop leader should explain about the Diversity & Inclusion Working group
 
 Design alliance about our participation - quick pulse to ask people what do they need to be present and participate fully in the following interactive activity that asks us to share personal interests and  contributions that are core to Mozilla.
 
-Give examples, guidelines - how do we hear, enable and respect others participation
+Give examples, guidelines - how do we hear, enable and respect others participation.  Here are some starters:
 
-* Male presenting people can wait a beat for women to speak up
-* White folks can wait for non-white to speak up
-* Anyone who talks a lot can wait for people who haven't spoken to talk
-* No cross-talk, don't interrupt
-* Trust  & believe people's experiences - you don't have to understand, may  be uncomfortable, doesn't mean it's not true or doesn't exist - learn  more later on your own & with your peers
-* Don't  ask people to explain oppression to you, there's lots of material out  there - be an ally, do the work don't ask others to do it for you
-* Respect  confidentiality - in these sessions people will be vulnerable, what  happens in sessions stays in session (unless permission from speaker is  given)
-
++ Male presenting people can wait a beat for women to speak up
++ White folks can wait for non-white to speak up
++ Anyone who talks a lot can wait for people who haven't spoken to talk
++ No cross-talk, don't interrupt
++ Trust  & believe people's experiences - you don't have to understand, may  be uncomfortable, doesn't mean it's not true or doesn't exist - learn  more later on your own & with your peers
++ Don't  ask people to explain oppression to you, there's lots of material out  there - be an ally, do the work don't ask others to do it for you
++ Respect  confidentiality - in these sessions people will be vulnerable, what  happens in sessions stays in session (unless permission from speaker is  given)
++ Self Care (if you need to step away for a second, do)
++ Be Present! (no devices, no distractions)
 
 ### Warm Up - Diversity Matrix
 
 From [Diversity Activity booklet](http://intraweb.stockton.edu/eyos/affirmative_action/content/docs/Interactive%20Diversity%20Booklet%2010-14-2011.pdf)
 
 Discussion points:
- This matrix can tell you a lot about your surroundings.
- Often, people find that their intercultural experiences are clustered; in the residence halls for instance. They often also are passive (one-
-way) and not interactive.
- Having this information on paper allows us to use them in new ways. Few other events force us to take stock of our multicultural
-interchanges.
- Most people don’t bring this information into their consciousness. They subconsciously are convinced that they are fairly multicultural. It
-can be jarring to discover how homogenous our environment is and our environment has had and continues to have an effect on our
-beliefs.
- This matrix can give us ideas about how we might enrich our cultural environment and how to reach out to and get to know people who
-belong to different groups (Joining a club or community group that includes different kinds of people is an example).
++ This matrix can tell you a lot about your surroundings.
++ Often, people find that their intercultural experiences are clustered; in the residence halls for instance. They often also are passive (one-way) and not interactive.
++ Having this information on paper allows us to use them in new ways. Few other events force us to take stock of our multicultural interchanges.
++ Most people don’t bring this information into their consciousness. They subconsciously are convinced that they are fairly multicultural. It can be jarring to discover how homogenous our environment is and our environment has had and continues to have an effect on our beliefs.
++ This matrix can give us ideas about how we might enrich our cultural environment and how to reach out to and get to know people who belong to different groups (Joining a club or community group that includes different kinds of people is an example).
 
 
 ### Stepping Stones
