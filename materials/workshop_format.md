@@ -46,32 +46,20 @@ If working with mix of remote & physical participants, we will provide a grid on
 
 Share Core Diagram Image (see images folder) and explain the 4 layers [todo - more on this]. Share Mozilla Core Values.
 
-Form Groups of 3-4 people.
-If remote participation is involved, get into video chats, text/audio as backup if no video.  Try to put a remote participant into each group as best you can, so all groups have to work with that constraint.
-
-The following is done within each group:
-
-1. Starting with the outer circle ring, everyone write down up to 5 activities that are specific to you. (Give people 5 minutes to write that down.)
-
-2. Ask people to share. Build excitement and momentum by having people share +1 or share similar ones. (Do for about 5 minutes.)
-
-3. Ask people to share any others that they think it's so specific to them  that they probably don't think others do this. (example - "I teach  people who are afraid of heights to do sky diving." wild example, I  know.) The purpose of this is to create a safe space for people to share things that they think probably no one cares about, but where they may find allies. It is about building connection.
-
-4. Move on to the Second Circle Ring and ask people to write up to 5 things. (5 minutes.)
-
-5. Ask people to compare the first 5 with the second 5 and notice if any interests were duplicated. (Discuss, 5-7 minutes)
-
-6. Repeat for Third Circle Ring:  Contributions to Mozilla. Discuss did any interests move over from the first rung through the third. Build momentum by having people share their contributions to Mozilla, and noting the diversity of what people are contributing. The purpose of this is to celebrate and recognize each  other. (10 minutes)
-
-7. The most challenging - Have People check themselves against the Mozilla core values, recognize how they internalize each, then write about how those are reflected in their contributions as Mozillians.  (10 minutes)
-
-8. At this time, pause and let people reflect. (15 minute, perhaps a bio-break)
-
-9. Gather back together. Ask if people will share what they learned through this activity. Note the similarities between groups, or differences.
+1. In the large group, have everyone write a short list of how they connect with the core values of mozilla (eg: using Firefox, promoting user privacy, explaining mozilla to others) (5 mins)
+2. Take 5 minutes to share with the group, in a round, one from each participant -- encourage physical movement by having other participants throw up a finger in a "Plus One!" gesture with the ones they feel that way about
+3. In the large group, another 5 minutes on the next layer: your contributions to Mozilla
+4. Again go around (opposite direction) and rapid-fire, have each person shout out proudly one of their contributions
+5. Now break into groups of 3 (ideally, 4 if necessary) and have each group spend 5 minutes sharing with each other how a specific interest of focus area they have works in connection with Mozilla activities/contributions (my eg: I believe in advancing the participation of women in tech, so WoMoz is a focus area for me)
+6. If remote participation is involved, get into video chats, text/audio as backup if no video.  Try to put a remote participant into each group as best you can, so all groups have to work with that constraint.
+7. After making sure each person in the groups has shared, now spend another 5 minutes asking the groups to share with each other something from their "outer layer" - things that would be true about them/their values even if they weren't part of Mozilla. These are the things they see as unique about themselves and do not necessarily expect to see reflected back at them from Mozilla (eg: a hobby, gender identity, religious affiliation)
+8. Come back into the group as a whole and share thoughts on those two exercises - what did it bring up for people? What are their takeaways from all these exercises? Ask if people will share what they learned through this activity. Note the similarities between groups, or differences.
 
 ### Wrap Up
 
-Provide a link to tool kits, invite people to join the diversity working group if they are interested in further development and leadership in this area. Give everyone a badge.
+[need a nice rambunctious ending here]
 
-(would be nice to have an exit survey here)
+Current Wrap Up: Provide a link this [tool kit](https://github.com/lsblakk/dice-workshop), invite people to join the [diversity working group](https://wiki.mozilla.org/CommunityDiversity) and [mailing list](https://lists.mozilla.org/listinfo/community-diversity) if they are interested in further development and leadership in this area. Give everyone a [badge](https://badges.mozilla.org/en-US/badges/badge/DICE-Workshop-Attendee).
+
+[would be nice to have an exit survey here]
 
